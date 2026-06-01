@@ -3,7 +3,7 @@
 Professional portfolio showcasing expertise in Agentic AI, n8n workflow automation, and Python-based AI agents.
 
 ## 🚀 Live Demo
-**[View Live Portfolio](https://temp-portfolio-amber.vercel.app)**
+**[View Live Portfolio](https://abdullah-tariq-portfolio-amber.vercel.app)**
 
 ---
 
